@@ -9,49 +9,49 @@ var productos=[
   {
       "id":1,
       "image":"image1.png",
-      "precio":20,
+      "precio":1500,
       "title":"Playera Seleccion de México"
   },
   {
       "id":2,
       "image":"image2.png",
-      "precio":35,
+      "precio":1400,
       "title":"Playera Seleccion de Uruguay"
   },
   {
       "id":3,
       "image":"image3.png",
-      "precio":15.50,
+      "precio":1550,
       "title":"Playera Seleccion de Inglaterra"
   },
   {
       "id":4,
       "image":"image4.png",
-      "precio":20.20,
+      "precio":1200,
       "title":"Playera Seleccion de Holanda"
   },
   {
       "id":5,
       "image":"image5.png",
-      "precio":19,
+      "precio":1350,
       "title":"Playera Seleccion de Argentina"
   },
   {
       "id":6,
       "image":"image6.png",
-      "precio":45,
+      "precio":1400,
       "title":"Playera Seleccion de Alemania"
   },
   {
       "id":7,
       "image":"image7.png",
-      "precio":23.99,
+      "precio":1400,
       "title":"Playera Seleccion de Francia"
   },
   {
       "id":8,
       "image":"image8.png",
-      "precio":50,
+      "precio":1300,
       "title":"Playera Seleccion de Brasil"
   },
   
