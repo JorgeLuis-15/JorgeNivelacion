@@ -1,6 +1,6 @@
 var db = new Dexie("Carrito");
 var db2 = new Dexie("Pedido");
-let api='https://vercel.com/jorgeluis-15/carrito/';
+let api='https://jorge-nivelacion.vercel.app/';
 
 db.version(1).stores({
    
